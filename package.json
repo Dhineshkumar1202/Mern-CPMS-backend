@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "engines": {
-    "node":"v20.11.1"
+    "node": "v20.11.1"
   },
   "scripts": {
     "start": "node index.js",
@@ -15,6 +15,7 @@
   "description": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "express-validator": "^7.2.0",
